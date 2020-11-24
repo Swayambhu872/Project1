@@ -1,7 +1,11 @@
 import java.util.Scanner;
 import java.util.Arrays;
-// sorting Strings using quick sort ar per the length
+<<<<<<< HEAD
 // I am making changes here
+=======
+// sorting Strings using quick sort as per their length
+// changes made by branch 2
+>>>>>>> branch2
 class Scratch {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
